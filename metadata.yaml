@@ -1,0 +1,22 @@
+_repo: Harrington-A-Story-of-True-Love_57876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Connor, William Douglas
+    birthdate: 1832
+    deathdate: 1889
+    gutenberg_agent_id: '32236'
+    url: http://www.gutenberg.org/2009/agents/32236
+description: ''
+gutenberg_issued: '2018-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Harrington: A Story of True Love'
+url: http://www.gutenberg.org/ebooks/57876
